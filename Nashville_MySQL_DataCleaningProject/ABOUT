@@ -1,0 +1,27 @@
+Nashville data set consists of 20 columns and 56,477 rows. The dataset was retrieved from Github, and initially posted on Kaggle. 
+This project is all about carrying out pre-processing steps like removing duplicates, detecting nulls, and imputation, understanding and splitting columns, 
+and feature selection.
+The project was completed under the guidance of AlexTheAnalyst... however, I have added some of my own work to it too. I have added the overview of the data below here.
+** METADATA **
+
+UniqueID — ID number attributed to a buyer.
+ParcelID — code attributed to a land.
+LandUse — shows the different uses of land.
+SalesPrice — cost of land
+LegalReference — citation is the practice of crediting and referring to authoritative documents and sources.
+OwnerName_ name of land owner
+Acreage — the size of an area of land in acres
+LandValue — the worth of the land
+Building Value — worth of a building
+Total Value — land value + building value
+YearBuilt — the year the building was built
+FullBath — a bathroom that includes a shower, a bathtub, a sink, and a toilet.
+HalfBath — a half bathroom only contains a sink and a toilet
+Sale_Date — the date when the land was sold
+SaleAddress — address of land sold
+City — location of land
+Owner_Address — owner's house address
+OwnerCity — the city where the owner lives
+OwnerState — state where the owner is located
+
+Happy learning and happy cleaning!!!
