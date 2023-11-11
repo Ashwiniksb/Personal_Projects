@@ -1,3 +1,5 @@
+-- I pushed the dataset through python by connecting the database to it using create_engine of sqlalchemy.
+
 alter table `nashville housing data for data cleaning` rename nashville;
 
 #####################################
