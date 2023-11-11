@@ -1,4 +1,4 @@
--- I pushed the dataset through python by connecting the database to it using create_engine of sqlalchemy.
+-- If you face an issue with importing the table in MySQL (like I did :), I struggled for real!!!), you can push the dataset through Python by connecting the database to it using create_engine of sqlalchemy.
 
 alter table `nashville housing data for data cleaning` rename nashville;
 
